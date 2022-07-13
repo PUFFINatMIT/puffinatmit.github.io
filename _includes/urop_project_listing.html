@@ -1,0 +1,11 @@
+
+<div>
+    <button type="button" class="collapsible">{{ include.title }}<br><span>{{ include.date | date: "%B %Y" }}</span></button>
+    <div class="content">
+        {{ include.description }}
+
+        {% if include.image %}
+            {% include image_with_caption.html src=include.image caption=include.image_description %}
+        {% endif %}
+    </div>
+</div>

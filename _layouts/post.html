@@ -1,0 +1,36 @@
+---
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% include head.html %}
+    <link rel="stylesheet" href="/css/main.css"/>
+</head>
+<body>    
+
+    {% include header.html page=page.title %}
+
+    <article class="main-content">
+        
+        <a href="/news">&lsaquo; Return to News</a>
+        <h1 class="post-title"> {{ page.title }} </h1>
+        <div class="post-info">
+            <span class="post-author"><i class="fa-solid fa-user"></i> {{ page.author }}</span>
+            <span class="post-date"><i class="fa-solid fa-clock"></i> {{ page.date | date: "%-d %B %Y" }}</span>
+
+            <!-- {% for tag in page.categories %}
+            <span class="post-tag"><i class="fa-solid fa-tag"></i> {{ tag }}</span></li>
+            {% endfor %} -->
+        </div>
+
+        {{ content }}
+
+        <a href="/news">&lsaquo; Return to News</a>
+
+    </article>
+
+    {% include footer.html %}
+    
+</body>
+</html>

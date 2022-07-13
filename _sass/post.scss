@@ -1,0 +1,108 @@
+/* EQUATIONS */
+
+.inline-equation {
+    font-size: 0.9em;
+}
+
+.equation {
+    text-align: center;
+    overflow-x: auto;
+    overflow-y: hidden;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+/* -----------------------
+    CODE SNIPPETS
+   ----------------------- */
+
+   code, pre {
+    font-family: 'Consolas', 'Courier New', Courier, monospace;
+    width: 85%;
+    margin: auto;
+    text-align: left;
+}
+
+code {
+    /* Inline code snippets */
+    margin-top: 1rem;
+    padding: .25em .5em;
+    font-size: 85%;
+
+    background-color: #F4F4F4;
+    border-radius: 3px;
+}
+
+pre {
+    /* Code boxes */
+    display: block;
+    margin-top: 0;
+    margin-bottom: 1.5rem;
+    padding: 1.5rem;
+    font-size: .8rem;
+    line-height: 1.4;
+    white-space: pre;
+    background-color: #F4F4F4;
+    border-radius: 5px;
+
+    overflow-y: hidden;
+    overflow-x: auto;
+}
+
+@media (max-width: 48rem) {
+    .highlight:after {
+        content: "(You might have to scroll horizontally.)";
+        background-color: transparent;
+        font-family: 'Source Sans Pro', sans-serif;
+        font-style: italic;
+        font-weight: 400;
+        font-size: 16px;
+        color: gray;
+        display: block;
+        padding-top: 10px;
+        text-align: center;
+        padding-bottom: 10px;
+    }
+}
+
+.highlight {
+    /* Enables momentum scrolling on mobile. */
+    -webkit-overflow-scrolling: touch;
+}
+
+pre code {
+    /* Code text within code boxes */
+    padding: 0;
+    font-size: 110%;
+    color: inherit;
+    background-color: transparent;
+    font-weight: 400;
+}
+
+@media (max-width: 48rem){
+    /* Mobile code boxes */
+    pre {
+        margin: auto;
+        -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        box-sizing: border-box;
+        width: 100%;
+    }
+}
+
+.highlight {
+    margin-bottom: 1rem;
+    border-radius: 10px;
+}
+
+.highlight pre {
+    margin-bottom: 0;
+}
+
+.vertical-center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}

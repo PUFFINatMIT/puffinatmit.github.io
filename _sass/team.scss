@@ -1,0 +1,87 @@
+.profile {
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    margin-bottom: 1rem;
+
+    .picture {
+        width: 30%;
+
+        img {
+            width: 100%;
+        }
+    }
+
+    .description {
+        width: 60%;
+
+        font-family: 'Roboto', sans-serif;
+        font-weight: 300;
+        line-height: 1.5rem;
+        font-size: 1.1rem;
+        color: black;
+    }
+
+    .name {
+        font-weight: 900;
+    }
+}
+
+.profile-container {
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+}
+
+.urop-names-container {
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin: auto;
+
+    .urop-names-student {
+        flex: 1 0 30%;
+        min-width: 220px;
+        max-width: none;
+        margin: 1em;
+        line-height: 1.4em;
+
+        b {
+            font-weight: 900;
+        }
+    }
+}
+
+.profile-divider {
+    display: none;
+}
+
+@media screen and (max-width: 768px) { 
+    .urop-names-student {
+        line-height: 1.4em;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    .profile {
+        flex-direction: column;
+        width: 80%;
+
+        .picture {
+            width: 80%;
+        }
+
+        .description {
+            width: 100%;
+        }
+    }
+
+    .profile-divider {
+        display: block;
+        border-top: 1px solid #EEE;
+    }
+}

@@ -1,0 +1,94 @@
+
+<header>
+    <div class="header-logo">
+        <a href="/"><img src="/assets/logos/PUFFIN_horizontal_noPadding_web.svg"/></a>
+    </div>
+    
+    <a class="nav-toggle" onclick="toggleNav()">
+        MENU <i class="fa-solid fa-bars"></i>
+    </a>
+
+    <nav id="menu">
+
+        {% if include.page.title == "Home" %}
+        <div class="nav-link this-page">
+        {% else %}
+        <div class="nav-link">
+        {% endif %}
+            <a href="/">
+                HOME
+            </a>
+        </div>
+
+        {% if include.page.title == "News" %}
+        <div class="nav-link this-page">
+        {% else %}
+        <div class="nav-link">
+        {% endif %}
+            <a href="/news/">
+                NEWS
+            </a>
+        </div>
+
+        {% if include.page.title == "The Machine" %}
+        <div class="nav-link this-page">
+        {% else %}
+        <div class="nav-link">
+        {% endif %}
+            <a href="/the-machine/">
+                THE MACHINE
+            </a>
+        </div>
+
+        <div class="nav-link nav-dropdown">
+            {% if include.page.title == "Research" or include.page.subpage_of == "Research" %}
+            <a class="nav-dropdown-button this-page" href="/research/">
+            {% else %}
+            <a class="nav-dropdown-button" href="/research/">
+            {% endif %}
+                RESEARCH
+            </a>
+            <div class="nav-dropdown-content">
+                {% for research_page in site.data.research %}
+                    {% if include.page.title == research_page.page-title %}
+                    <a class="this-page" href="{{ research_page.permalink }}">{{ research_page.header-link }}</a>
+                    {% else %}
+                    <a href="{{ research_page.permalink }}">{{ research_page.header-link }}</a>
+                    {% endif %}
+                {% endfor %}
+            </div>
+        </div>
+
+        {% if include.page.title == "Team" %}
+        <div class="nav-link this-page">
+        {% else %}
+        <div class="nav-link">
+        {% endif %}
+            <a href="/team/">
+                TEAM
+            </a>
+        </div>
+
+        {% if include.page.title == "Work With Us" %}
+        <div class="nav-link this-page">
+        {% else %}
+        <div class="nav-link">
+        {% endif %}
+            <a href="/work-with-us/">
+                WORK WITH US
+            </a>
+        </div>
+
+    </nav>
+
+    <script>
+        function toggleNav() {
+            var x = document.getElementById("menu");
+            if (x.style.display == "inline-block") {
+                x.style.display = "none";
+            } else { 
+                x.style.display = "inline-block";
+            }
+        }
+    </script>
+</header>

@@ -1,0 +1,40 @@
+- title: Data Analysis for Magnetic Reconnection Experiments
+  contact: Jack Hare
+  posted-date: 2022-02-01
+  description: <p>Magnetic reconnection is a fundamental process in plasma physics, which breaks and 
+               reforms magnetic field lines, converting magnetic energy into heat and kinetic energy. 
+               The change in magnetic topology can also unleash dramatic events such as Coronal 
+               Mass Ejections (CMEs) from the Sun, or lead to the devastating sawtooth instability 
+               in a magnetic fusion reactor.</p>
+
+               <p>Recently, the PUFFIN team carried out magnetic reconnection experiments 
+               on the MAIZE pulsed-power generator at the University of Michigan Ann Arbor. These 
+               experiments generated a vast amount of data, and this project is to help with the 
+               data analysis. Working with a graduate student, you will learn about plasma physics 
+               and plasma diagnostics, and contribute to a cutting edge research project which aims 
+               to understand magnetic reconnection at a fundamental level.</p>
+  image: /assets/urop_if.jpg
+  image_description: An interferogram made using a pulsed infra-red laser during a magnetic reconnection experiment
+
+- title: A Pulser for High Energy Density Plasma Diagnostics
+  contact: Jack Hare
+  posted-date: 2022-02-01
+  description: <p>The new PUFFIN pulsed-power facility under construction at MIT
+               will use intense electrical currents to produce dense plasmas and strong magnetic 
+               fields, which interact to create supersonic, magnetized plasma flows. When these 
+               flows collide with each other or solid obstacles, they produce extreme conditions 
+               which can help us learn about astrophysical plasmas, such as the highly collimated 
+               jets from Young Stellar Objects.</p>
+
+               <p>One simple but versatile diagnostic for studying these plasmas is the "b-dot" or 
+               inductive probe, a tiny loop of wire which is immersed in the plasma flow and 
+               measures the temporal rate of change of the magnetic field. This project aims to 
+               design, construct and test a small scale pulser (~1 kA peak current, ~100 ns rise time) 
+               which can generate a sufficiently large and rapidly varying magnetic field for 
+               calibrating b-dot probes for use on PUFFIN and other pulsed-power facilities around 
+               the world.</p>
+  image: /assets/urop_bdot.jpg
+  image_description: A B-dot probe (left, orange/brown rod) prior to an experiment on the MAIZE pulsed-power facility at the University of Michigan.
+
+
+

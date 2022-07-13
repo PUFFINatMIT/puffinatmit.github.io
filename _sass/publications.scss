@@ -1,0 +1,25 @@
+$nse-orange: #f9521e;
+
+.publication {
+    .highlighted-author {
+        font-weight: 900;
+    }
+
+    .title {
+        font-weight: 900;
+        color: $nse-orange;
+    }
+
+    .journal {
+        font-style: italic;
+    }
+
+    a {
+        font-weight: 900;
+        color: $nse-orange;
+        text-decoration: underline;
+    }
+
+    line-height: 1.75rem;
+    margin-bottom: 1.5rem;
+}

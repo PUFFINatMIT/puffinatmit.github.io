@@ -1,0 +1,56 @@
+.urop-title {
+    background-color: #EEE;
+}
+
+.collapsible {
+    padding: 1.5rem;
+    width: 100%;
+    text-align: left;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.1rem;
+    line-height: 1.5rem;
+    margin-bottom: 0;
+    font-weight: 900;
+
+    cursor: pointer;
+    border: none;
+    outline: none;
+
+    margin-top: 1rem;
+}
+
+.content {
+    background-color: #FAFAFA;
+    padding: 1.5rem;
+    margin-bottom: 2rem;
+    margin-top: 0;
+    line-height: 1.5rem;
+    
+    display: none;
+    overflow: hidden;
+    max-height: 0;
+    transition: max-height 0.2s ease-out;
+}
+
+.collapsible:after {
+    content: '\02795'; /* Unicode character for "plus" sign (+) */
+    font-size: 13px;
+    float: right;
+    margin-right: 10px;
+}
+
+.active:after {
+    content: "\2796"; /* Unicode character for "minus" sign (-) */
+}
+
+.urop-listings-container {
+    margin-bottom: 3rem;
+}
+
+.urop-listings-container button span {
+    font-weight: 300;
+}
+
+.urop-listings-container button {
+    vertical-align: middle;
+}

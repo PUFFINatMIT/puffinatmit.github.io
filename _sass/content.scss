@@ -1,0 +1,54 @@
+.main-content {
+    width: 40%;
+    margin: auto;
+    max-width: 1000px;
+    min-width: 650px;
+
+    @media screen and (max-width: 768px) {
+        width: 90%;
+        margin: auto;
+        min-width: 200px;
+        max-width: 768px;
+    }
+
+    line-height: 2.8em;
+}
+
+.home-subheading-container {
+    width: 60%;
+    margin: auto;
+
+    @media screen and (max-width: 768px) {
+        width: 90%;
+        margin: auto;        
+        min-width: 200px;
+        max-width: 768px;
+    }
+}
+
+.main-content h1:not(:first-child) {
+    margin-top: 2em;
+}
+
+hr {
+    border-top: 1px solid #DDD;
+    margin-top: 3em;
+}
+
+.return-to-top {
+    a {
+        color: grey;
+        font-weight: 300;
+        text-decoration: underline;
+    
+        &:hover {
+            color: $nse-orange;
+            font-weight: 300;
+            text-decoration: none;
+        }
+    } 
+}
+
+li {
+    line-height: 1.5rem;
+}
