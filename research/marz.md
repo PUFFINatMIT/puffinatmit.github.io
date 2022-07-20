@@ -25,9 +25,22 @@ We were awarded four shots through the Z Fundamental Science Program (ZFSP) in 2
     caption="A summary of data from our first MARZ shot on Z. From top left: load hardware in chamber, spectrograph of PDV demonstrating current delivery to the load, a bow shock forming around an inductive probe, streaked visible spectra from the plasma flows, X-ray spectroscopy of the reconnection layer showing Al K-shell, a photo of the inductive probe used to form the bow shock. Courtesy of Sandia National Laboratories."
 %}
 
-We will apply for a renewal of the MARZ shots in September 2022. We are grateful to SAndia National Laboratories for providing us with facility time on Z, and to the NSF for funding graduate student Rishabh Datta through NSF EAGER PHY2213898.
+We will apply for a renewal of the MARZ shots in September 2022. We are grateful to Sandia National Laboratories for providing us with facility time on Z, and to the NSF for funding graduate student Rishabh Datta through NSF EAGER PHY2213898.
 
+The MARZ collaboration consists of:
 
+* Jack D. Hare, Academic Principal Investigator
+* Katherine Chandler, Principal Experimenter, Sandia National Laboratories
+* Jeremy Chittenden, Imperial College London
+* Aidan Crilly, Imperial College London
+* Rishabh Datta, Massachusetts Institute of Technology
+* William Fox, Princeton Plasma Physics Laboratory
+* Chris Jennings, Sandia National Laboratories
+* Hantao Ji, Princeton University
+* Carolyn Kuranz, University of Michigan
+* Sergey V. Lebedev, Imperial College London
+* Clayton E. Myers, Commonwealth Fusion Systems
+* Dmitri A. Uzdensky, University of Colorado Boulder
 
 ### Relevant Publications
 - ["Magnetic Reconnection with Radiative Cooling. I. Optically Thin Regime"](https://arxiv.org/abs/1007.0774) by Dmitri Uzdensky and Jonathan McKinney. Basic theory of radiative cooling instabilities within a reconnection layer.
