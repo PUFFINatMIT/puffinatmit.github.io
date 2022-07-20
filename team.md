@@ -6,7 +6,7 @@ permalink: /team/
 
 # Meet the PUFFIN Team
 
-The PUFFIN team work out of the Plasma Science and Fusion Center here at MIT, though we are from a range of departments. There are two graduate students, though we often have openings for undergraduates to join us for a UROP project. See the "Work With Us" page for more information about becoming part of our team (or collaborating).
+The PUFFIN team work out of the Plasma Science and Fusion Center here at MIT, though we are from a range of departments. There are two graduate students, though we often have openings for undergraduates to join us for a UROP project. See the "Work With Us" page for more information about becoming part of our team!
 
 <div class="profile-container">
 <hr class="profile-divider">
@@ -25,7 +25,7 @@ The PUFFIN team work out of the Plasma Science and Fusion Center here at MIT, th
 
 ## UROP Students
 
-We often work with UROP students... If you are interested in registering for a UROP project with us, visit the "Work With Us" page.
+We actively recruit UROP students to run research projects within the group. If you are interested in registering for a UROP project with us, visit the "Work With Us" page.
 
 <div class="urop-names-container">
     {% for person in site.data.urops.students %}

@@ -19,7 +19,7 @@ In a plasma, the familiar Reynolds number ($Re=uL/\nu\propto n T^{-5/2}$), has a
 
 The PUFFIN current pulse is around ten times longer than existing pulsed-power facilities, allowing it to drive the plasma over many Alfvénic timescales. Combined with the astrophysically relevant equipartition between the energy components, PUFFIN provides a unique and ideal driver for MHD turbulence experiments.
 
-### Relevant Publications
+### Relevant Research
 - ["Recent progress in astrophysical plasma turbulence from solar wind observations"](https://arxiv.org/abs/1611.03386) by Chris Chen. A compact review of MHD and kinetic turbulence, ideal for experimentalists.
 - ["SSX MHD plasma wind tunnel"](https://www.cambridge.org/core/product/identifier/S0022377815000227/type/journal_article) by Brown and Schaffner. In-situ measurements of turbulence in a plasma physics experiments.
 - ["An Imaging Refractometer for Density Fluctuation Measurements in High Energy Density Plasmas"](https://arxiv.org/abs/2007.04682) by Hare et al. A new diagnostic we are developing to study turbulence in HED plasmas.

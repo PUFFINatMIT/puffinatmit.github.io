@@ -6,20 +6,29 @@ subpage_of: Research
 enable_maths: true
 ---
 
-# MARZ: Magnetic Reconnection on Z
-
-Turbulence is a fundamental process in all fluids, including plasmas. It dissipates large scale fluid motions through a cascade to ever smaller scales, until viscosity dominates and dissipates the kinetic energy as heat. In a plasma, magnetic fields couple to the charged particles, breaking the symmetry and creating anisotropic, fully three-dimensional turbulence. In MHD, the basic building blocks of turbulence are magnetic flux tubes, which interact, creating current sheets which in turn drive flux-tube merging through magnetic reconnection.
+# MARZ: Magnetically Ablated Reconnection on Z
 
 {% include image_with_caption.html 
-    src="/assets/turbulence_shadowgraphy.png" 
-    caption="Laser shadowgraphy image of a turbulent column of magnetized plasma, driven by pulsed power."
+    src="/assets/z3697_load_hardware.jpg" 
+    caption="A photograph of the MARZ load hardware in chamber. Courtesy of Sandia National Laboratories."
 %}
 
-In a plasma, the familiar Reynolds number ($Re=uL/\nu\propto n T^{-5/2}$), has a magnetic counterpart: $Re_M=uL/\eta\propto T^{3/2}$, where $\eta$ is the magnetic diffusivity. Both must be large to sustain MHD turbulence, requiring a high-energy-density (HED) state with high density and high temperature. Such plasmas can be created by high-powered lasers or pulsed-power driven currents. Pulsed-power creates long lasting, inherently magnetised plasmas, with an astrophysically-relevant equipartition between the magnetic, thermal and kinetic energies. This is in contrast to long-lived magnetic confinement plasmas, dominated by magnetic pressure, or short-lived laser-driven plasmas, dominated by kinetic and thermal pressures.
+THE MARZ collaboration was founded in 2020 to investigated radiatively cooled magnetic reconnection using the world's largest pulsed-power facility, the Z Machine at Sandia National Laboratories in Albuquerque NM.
+Radiative cooling is important process in extreme astrophysical plasmas such as the coronae surrounding black holes and in pulsar magnetospheres, but it is difficult to study in these remote environments.
+Z can deliver up to 30 MA of electrical current with 100 ns rise times. Under these intense conditions, extremes states of matter can be generated which exist nowhere else on Earth, enabling us to study the physics behind exotic astrophysical objects in the laboratory. 
 
-The PUFFIN current pulse is around ten times longer than existing pulsed-power facilities, allowing it to drive the plasma over many Alfvénic timescales. Combined with the astrophysically relevant equipartition between the energy components, PUFFIN provides a unique and ideal driver for MHD turbulence experiments.
+MARZ uses a scaled-up version of the magnetic reconnection platform developed by the team at the 1.4 MA MAGPIE generator at Imperial College London.
+We were awarded four shots through the Z Fundamental Science Program (ZFSP) in 2021-2023, and we carried out our first experimental shot on April 21st, 2022. In this shot we successfully demonstrated splitting of the power-flow on Z to drive two side-by-side inverse (or exploding) wire arrays. Diagnostics such as inductive probes, streaked spectroscopy, X-ray diodes and X-ray imaging spectroscopy confirmed the ablation of fast moving plasmas flows carrying large advected magnetic fields, and the generation of a reconnection layer between the wire arrays. 
 
-### Recent Publications
-- ["Recent progress in astrophysical plasma turbulence from solar wind observations"](https://arxiv.org/abs/1611.03386) by Chris Chen. A compact review of MHD and kinetic turbulence, ideal for experimentalists.
-- ["SSX MHD plasma wind tunnel"](https://www.cambridge.org/core/product/identifier/S0022377815000227/type/journal_article) by Brown and Schaffner. In-situ measurements of turbulence in a plasma physics experiments.
-- ["An Imaging Refractometer for Density Fluctuation Measurements in High Energy Density Plasmas"](https://arxiv.org/abs/2007.04682) by Hare et al. A new diagnostic we are developing to study turbulence in HED plasmas.
+{% include image_with_caption.html 
+    src="/assets/z3697_quick_summary.jpg" 
+    caption="A summary of data from our first MARZ shot on Z. From top left: load hardware in chamber, spectrograph of PDV demonstrating current delivery to the load, a bow shock forming around an inductive probe, streaked visible spectra from the plasma flows, X-ray spectroscopy of the reconnection layer showing Al K-shell, a photo of the inductive probe used to form the bow shock. Courtesy of Sandia National Laboratories."
+%}
+
+We will apply for a renewal of the MARZ shots in September 2022. We are grateful to SAndia National Laboratories for providing us with facility time on Z, and to the NSF for funding graduate student Rishabh Datta through NSF EAGER PHY2213898.
+
+
+
+### Relevant Publications
+- ["Magnetic Reconnection with Radiative Cooling. I. Optically Thin Regime"](https://arxiv.org/abs/1007.0774) by Dmitri Uzdensky and Jonathan McKinney. Basic theory of radiative cooling instabilities within a reconnection layer.
+- ["Radiative Magnetic Reconnection in Astrophysics."](https://arxiv.org/abs/1510.05397) by Dmitri Uzdensky. More affects of radiation on radiative cooling, as well as a detailed discussion of the astrophysical significance.
