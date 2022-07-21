@@ -1,0 +1,19 @@
+
+<div class="profile">
+    
+    <div class="picture">
+        <img src="{{ include.img }}"/>
+    </div>
+
+    <div class="description">
+        <span class="name">{{ include.name }}</span> 
+        ({% if include.pronouns %}{{ include.pronouns }}, {% endif %}<a class="email" href="mailto:{{ include.email }}">{{ include.email }}</a>)
+        {{ include.description }}
+
+        {% if include.website %}
+            <a href="{{ include.website_url }}">{{ include.website }}</a>
+        {% endif %}
+    </div>
+
+</div>
+<hr class="profile-divider">

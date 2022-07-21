@@ -1,0 +1,27 @@
+- title: Magnetohydrodynamic Turbulence
+  page-title: MHD Turbulence
+  image: /assets/turbulence_shadowgraphy.png
+  permalink: /research/mhd-turbulence/
+  header-link: Turbulence
+
+- title: Magnetic Reconnection
+  page-title: Magnetic Reconnection
+  image: /assets/s1214_15-Shot.gif
+  permalink: /research/reconnection/
+  header-link: Reconnection
+
+- title: Magnetized Target Fusion
+  page-title: Magnetized Target Fusion
+  image: /assets/turbulence_shadowgraphy.png
+  permalink: /research/fusion/
+  header-link: Fusion
+
+- title: "MARZ: Magnetic Reconnection on Z"
+  page-title: MARZ
+  permalink: /research/marz
+  header-link: MARZ
+
+- title: Our Publications
+  page-title: Publications
+  permalink: /research/publications
+  header-link: Publications

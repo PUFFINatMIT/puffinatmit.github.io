@@ -1,0 +1,18 @@
+
+<div class="quotation-container">
+    <div class="quotation-sub-container">
+        <div class="quotation-content">
+            {{ include.quote_text }}
+        </div>
+        {% if include.quote_attrib %}
+            <div class="quotation-attrib">
+                -"{{ include.quote_attrib }}",
+            </div>
+        {% endif %}
+        {% if include.quote_author %}
+            <div class="quotation-attrib">
+                {{ include.quote_author }}
+            </div>
+        {% endif %}
+    </div>
+</div>

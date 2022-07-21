@@ -1,0 +1,46 @@
+- name: Prof. Jack Hare
+  pub_name_short: J. D. Hare
+  pub_name_long: Jack D. Hare
+  pronouns: he/him
+  role: PI
+  email: jdhare@mit.edu
+  website: fusionandthings.eu
+  website_url: https://fusionandthings.eu/
+  description: is an assistant professor in the Department of Nuclear 
+               Science and Engineering. His doctoral research was on 
+               magnetic reconnection driven by pulsed-power, carried 
+               out at the MAGPIE facility at Imperial College London. 
+               As well as magnetized high-energy-density plasmas, 
+               Jack enjoys hiking, cycling, climbing and caving. His 
+               personal webpage is
+  profile_img: /assets/profiles/jdhare.jpg
+
+- name: Rishabh Datta
+  pub_name_short: R. Datta
+  pub_name_long: Rishabh Datta
+  pronouns: he/him
+  role: Graduate Student
+  email: rdatta@mit.edu
+  website: ridatta.com
+  website_url: http://ridatta.com/
+  description: "is a graduate student in the Department of Mechanical 
+               Engineering at MIT. Rishabh is interested in magnetohydrodynamic 
+               turbulence in plasmas. In addition, Rishabh has a strong 
+               interest in sustainability and biodiversity conservation.
+               Rishabh’s website is"
+  profile_img: /assets/profiles/rdatta.jpg
+
+- name: Thomas Varnish
+  pub_name_short: T. W. O. Varnish
+  pub_name_long: Thomas W. O. Varnish
+  pronouns: he/him
+  role: Graduate Student
+  email: tvarnish@mit.edu
+  website: thomasvarnish.co.uk
+  website_url: https://www.thomasvarnish.co.uk/
+  description: "is a graduate student in the Department of Nuclear Science 
+               and Engineering at MIT. He is interested in using pulsed-power 
+               experiments to better understand astrophysical plasmas. 
+               Outside of the lab, Thomas enjoys baking, knitting, and the 
+               odd bit of snowboarding. His website is"
+  profile_img: /assets/profiles/tvarnish.jpg

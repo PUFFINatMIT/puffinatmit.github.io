@@ -1,0 +1,49 @@
+/* Style for quotation elements */
+
+// $quote-text: gray;
+$quote-text: #222;
+$quote-attrib-text: #888;
+$quote-border: lightgray;
+$quote-background: #F8F8F8;
+
+.quotation-container {
+    width: 80%;
+    margin: auto;
+
+    .quotation-sub-container {
+        color: $quote-text;
+        // border-left: 1rem solid $quote-border;
+        border-left: 0.8rem solid #E8E8E8;
+        // background-color: $quote-background;
+        padding-left: 1.5rem;
+        padding-right: 1.5rem;
+        margin-top: 1.5rem;
+        margin-bottom: 1.5rem;
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+
+        .quotation-content {
+            font-size: 1.4rem;
+            line-height: 1.9rem;
+            text-align: left;
+        }
+
+        .quotation-attrib {
+            font-size: 1rem;
+            font-style: italic;
+            text-align: right;
+            color: $quote-attrib-text;
+            line-height: 1.5rem;
+        }
+
+        .quotation-attrib:nth-child(2) {
+            margin-top: 1.5rem;
+        }
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .quotation-container {
+        width: 90%;
+    }
+}
