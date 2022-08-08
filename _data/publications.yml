@@ -1,34 +1,5 @@
-- title: An Imaging Refractometer for Density Fluctuation Measurements in High Energy Density Plasmas
-  authors:
-    - name: J. D. Hare
-      highlight: yes
-    - name: G. C. Burdiak
-    - name: S. Merlini
-    - name: J. P. Chittenden
-    - name: T. Clayson
-    - name: A. J. Crilly
-    - name: J. W. D. Halliday
-      highlight: yes
-    - name: D. R. Russell
-    - name: R. A. Smith
-    - name: N. Stuart
-    - name: L. G. Suttle
-    - name: S. V. Lebedev
-  journal: HTDP
-  year: 2020
-  link: https://aip.scitation.org/doi/full/10.1063/5.0040919
-
-- title: "Something Interesting About Plasmas"
-  authors:
-    - name: A. N. Other
-    - name: T. W. O. Varnish
-      highlight: yes
-    - name: R. Datta
-      highlight: yes
-    - name: S. Merlini
-    - name: J. P. Chittenden
-    - name: J. D. Hare
-      highlight: yes
-    - name: S. V. Lebedev
-  journal: Nature
-  year: 2018
+- title: "Time-Resolved Velocity and Ion Sound Speed Measurements from Simultaneous Bow Shock Imaging and Inductive Probe Measurements"
+  authors: R. Datta, D. R. Russell, T. Clayson, J. P. Chittenden, S. V. Lebedev, J. D. Hare
+  journal: "arXiv (pre-print)"
+  year: 2022
+  link: http://arxiv.org/abs/2205.06082

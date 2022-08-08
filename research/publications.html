@@ -8,7 +8,32 @@ subpage_of: Research
 
 <h1>Our Publications</h1>
 
+
 {% assign i = site.data.publications | size %}
+{% for pub in site.data.publications %}
+    <div class="publication">
+        [{{ i }}]
+    {% assign authors = pub.authors | split: ", " %}
+    {% assign n_authors = authors | size %}
+    {% assign j = 1 %}
+    {% for author in authors %}
+        {% if j == n_authors %}and {% endif %}{{ author }},
+        {% assign j = j | plus:1 %}
+    {% endfor %}
+        <span class="title">
+            {% if pub.link %}
+            <a href="{{ pub.link }}">"{{ pub.title }}"</a>
+            {% else %}
+            "{{ pub.title }}"
+            {% endif %}
+        </span>,
+        <span class="journal">{{ pub.journal }}</span>,
+        {{ pub.year }}.
+    </div>
+    {% assign i = i | minus:1 %}
+{% endfor %}
+
+<!-- {% assign i = site.data.publications | size %}
 {% for pub in site.data.publications %}
     <div class="publication">
         [{{ i }}]
@@ -30,4 +55,4 @@ subpage_of: Research
         {{ pub.year }}.
     </div>
     {% assign i = i | minus:1 %}
-{% endfor %}
+{% endfor %} -->
