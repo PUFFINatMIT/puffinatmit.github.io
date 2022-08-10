@@ -47,3 +47,17 @@ We work with the [High Energy Density Physics group at MIT](https://www1.psfc.mi
 We use the 3D MHD GORGON code, developed by [Prof. Chittenden](https://www.imperial.ac.uk/people/j.chittenden/research.html) at Imperial College, to design and model our experiments.
 
 We collaborate with researchers at other pulsed-power facilities across the US and internationally, including the [COBRA generator at Cornell](https://www.lps.cornell.edu/project/cobra/), the [MAIZE generator at Ann Arbor, Michigan](https://plasmabay.engin.umich.edu/), and the [MAGPIE generator at Imperial College London](https://www.imperial.ac.uk/plasma-physics/magpie/).
+
+## Puffins
+
+Of course, we wouldn't be here without the puffins, some of the most charismatic birds on the planet. Ungainly in flight but unbelievably elegant in the water, puffins spend the winter at sea and the summer nesting on isolate cliffs. Puffins have only one chick per year, the puffling, and they feed it on sand-eels which they scoop up from the water and collect on special bared spikes inside their beaks. Below are some photos of puffins taken by team members:
+
+{% include image_with_caption.html src="/assets/puffins/20210330_bempton.jpg" caption="A puffin at Bempton cliffs in East Yorkshire, near where Prof. Hare grew up. Photo by Jack Hare." %}
+
+{% include image_with_caption.html src="/assets/puffins/20210621_lunga4.jpg" caption="Jack with puffins on the island of Lunga in the Scottish Hebrides. The puffins here are unafraid of humans and will carry on unconcerned if you sit quietly. Photo by Alex Betts." %}
+
+{% include image_with_caption.html src="/assets/puffins/20210621_lunga2.jpg" caption="A puffin landing at Lunga. Photo by Jack Hare." %}
+
+{% include image_with_caption.html src="/assets/puffins/20210621_lunga3.jpg" caption="A puffin at Lunga with a beak full of sand eels for the puffling chick. Photo by Jack Hare." %}
+
+{% include image_with_caption.html src="/assets/puffins/20210621_lunga1.jpg" caption="A group of puffins and razorbills sunning themselves on a rock on Lunga. Photo by Jack Hare." %}
