@@ -50,7 +50,7 @@ We collaborate with researchers at other pulsed-power facilities across the US a
 
 ## Puffins
 
-Of course, we wouldn't be here without the puffins, some of the most charismatic birds on the planet. Ungainly in flight but unbelievably elegant in the water, puffins spend the winter at sea and the summer nesting on isolate cliffs. Puffins have only one chick per year, the puffling, and they feed it on sand-eels which they scoop up from the water and collect on special bared spikes inside their beaks. Below are some photos of puffins taken by team members:
+Of course, we wouldn't be here without the puffins, some of the most charismatic birds on the planet. Ungainly in flight but unbelievably elegant in the water, puffins spend the winter at sea and the summer nesting on isolated cliffs. Puffins have only one chick per year, the puffling, and they feed it on sand-eels which they scoop up from the water and collect on special bared spikes inside their beaks. Below are some photos of puffins taken by team members:
 
 {% include image_with_caption.html src="/assets/puffins/20210330_bempton.jpg" caption="A puffin at Bempton cliffs in East Yorkshire, near where Prof. Hare grew up. Photo by Jack Hare." %}
 
