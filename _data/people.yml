@@ -44,3 +44,15 @@
                Outside of the lab, Thomas enjoys baking, knitting, and the 
                odd bit of snowboarding. His website is"
   profile_img: /assets/profiles/tvarnish.jpg
+
+- name: Simran Chowdhry
+  pub_name_short: S. Chowdhry
+  pub_name_long: Simran Chowdhry
+  pronouns: she/her
+  role: Graduate Student
+  email: schowdhry@psfc.mit.edu
+  description: "is a graduate student in the Department of Nuclear Science and 
+                Engineering at MIT, jointly working with Jack Hare and Nuno Loureiro. She is 
+                interested in radiative effects and instabilities in magnetic reconnection. 
+                Outside work, she enjoys playing the cello, singing and rowing."
+  profile_img: /assets/profiles/schowdhry.jpg
