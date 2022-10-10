@@ -60,6 +60,12 @@
     display: none;
 }
 
+@media screen and (max-width: 1200px) {
+    .profile {
+        width: 95%;
+    }
+}
+
 @media screen and (max-width: 768px) { 
     .urop-names-student {
         line-height: 1.4em;
