@@ -34,9 +34,10 @@ keywords: >-
   "puffin, plasma, physics, psfc, nuclear, fusion, hed, high-energy-density, fundamental, 
   science, solar, magnetic, reconnection, turbulence, mhd, mit, massachusetts, pulsed-power,
   ltd, ltds, diagnostics"
-ogimage: # This is the image that will display in tweets if someone links to our website
+ogimage: /assets/reconnection.png # This is the image that will display in tweets if someone links to our website
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
 
 address: 
   - PUFFIN Group,

@@ -4,18 +4,18 @@
     max-width: 1200px;
     min-width: 800px;
 
-    @media screen and (max-width: 768px) {
-        width: 90%;
-        margin: auto;
-        min-width: 200px;
-        max-width: 768px;
-    }
-
     @media screen and (max-width: 1600px) {
         width: 60%;
         margin: auto;
         max-width: 1300px;
         min-width: 650px;
+    }
+
+    @media screen and (max-width: 768px) {
+        width: 90%;
+        margin: auto;
+        min-width: 200px;
+        max-width: 768px;
     }
 
     line-height: 2.8em;
