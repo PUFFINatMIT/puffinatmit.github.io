@@ -1,11 +1,36 @@
-- title: "The structure of 3D collisional magnetized bow shocks in pulsed-power-driven plasma flow"
+- title: "The structure of 3-D collisional magnetized bow shocks in pulsed-power-driven plasma flow"
   authors: R. Datta, D. R. Russell, I. Tang, T. Clayson, L. G. Suttle, J. P. Chittenden, S. V. Lebedev, J. D. Hare
-  journal: "arXiv (pre-print)"
+  journal: "Journal of Plasma Physics"
   year: 2022
   link: http://arxiv.org/abs/2208.04535
   
 - title: "Time-Resolved Velocity and Ion Sound Speed Measurements from Simultaneous Bow Shock Imaging and Inductive Probe Measurements"
   authors: R. Datta, D. R. Russell, T. Clayson, J. P. Chittenden, S. V. Lebedev, J. D. Hare
-  journal: "arXiv (pre-print)"
+  journal: "Review of Scientific Instruments"
   year: 2022
-  link: http://arxiv.org/abs/2205.06082
+  link: https://doi.org/10.1063/5.0098823
+
+- title: "Two-Colour Interferometry and Thomson Scattering Measurements of a Plasma Gun."
+  authors: J. D. Hare, J. MacDonald, S. N. Bland, J. Dranczewski, J. W. D. Halliday, S. V. Lebedev, L. G. Suttle, E. R. Tubman, W. Rozmus
+  journal: "Plasma Physics and Controlled Fusion"
+  year: 2019
+  link: https://doi.org/10.1088/1361-6587/ab2571
+
+- title: "An Experimental Platform for Pulsed-Power Driven Magnetic Reconnection"
+  authors: J D Hare, L. G. Suttle, S. V. Lebedev, N. F. Loureiro, A. Ciardi, J.P. Chittenden, T. Clayson, et al. 
+  journal: "Physics of Plasmas"
+  year: 2018
+  link: https://doi.org/10.1063/1.5016280
+
+- title: "Formation and Structure of a Current Sheet in Pulsed-Power Driven Magnetic Reconnection Experiments"
+  authors: J. D. Hare, S. V. Lebedev, L. G. Suttle, N. F. Loureiro, A. Ciardi, G. C. Burdiak, J. P. Chittenden, et al.
+  journal: "Physics of Plasmas"
+  year: 2017
+  link: https://doi.org/10.1063/1.4986012
+
+
+- title: "Anomalous Heating and Plasmoid Formation in a Driven Magnetic Reconnection Experiment"
+  authors: J. D. Hare, L. Suttle, S. V. Lebedev, N. F. Loureiro, A. Ciardi, G. C. Burdiak, J. P. Chittenden, et al.
+  journal: Physical Review Letters
+  year: 2017
+  link: https://doi.org/10.1103/PhysRevLett.118.085001

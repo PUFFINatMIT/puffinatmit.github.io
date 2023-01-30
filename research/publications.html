@@ -17,7 +17,7 @@ subpage_of: Research
     {% assign n_authors = authors | size %}
     {% assign j = 1 %}
     {% for author in authors %}
-        {% if j == n_authors %}and {% endif %}{{ author }},
+        {% if j == n_authors and author != "et al." %}and {% endif %}{{ author }},
         {% assign j = j | plus:1 %}
     {% endfor %}
         <span class="title">
