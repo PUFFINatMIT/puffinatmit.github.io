@@ -10,7 +10,7 @@
 
 - name: Jose Cerritos Arevalo
   start: Spring 2022
-  end: Present
+  end: Fall 2022
   affiliation: MIT
 
 - name: Jason Smith
@@ -19,4 +19,16 @@
 
 - name: Hanfei Cui
   start: Summer 2022
+  affiliation: MIT
+
+- name: Emily Neill
+  start: IAP 2023
+  affiliation: MIT
+
+- name: Jane Atkinson
+  start: IAP 2023
+  affiliation: MIT
+
+- name: Osahon Odiase
+  start: IAP 2023
   affiliation: MIT
