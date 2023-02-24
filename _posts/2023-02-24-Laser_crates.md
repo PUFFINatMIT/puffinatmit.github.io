@@ -17,5 +17,5 @@ Thanks to the NSF and the NNSA for supporting the acquisition of this laser thro
 
 {% include image_with_caption.html 
     src="/assets/2023-02-24_laser_crates.jpg" 
-    caption="Lifting the capacitor module from its horizontal resting place."
+    caption="Three crates of laser equipment ready to be installed."
 %}
