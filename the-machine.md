@@ -10,16 +10,16 @@ PUFFIN is designed to deliver an intense pulse of electrical current to a "load"
 
 PUFFIN's unique capability is it's microsecond pulse length, in contrast to fast rise-time LTD pulsers such as [MAIZE](https://plasmabay.engin.umich.edu/research/michigan-accelerator-for-inductive-z-pinch-experiments-maize/) and [HADES](http://gourdain.pas.rochester.edu/index.php/research/experiment/hades), which drive rapid implosions to reach extreme conditions. Instead, the longer pulse length on PUFFIN allow us to sustain plasmas in a quasi-steady-state, which is ideal for studying fundamental plasma processes.
 
-{% include image_with_caption.html src="/assets/2022_07_20_PUFFIN_annotated_drawings_perspective.png" caption="The current PUFFIN design using 2 LTD modules." %}
+{% include image_with_caption.html src="/assets/2023_03_24_PUFFIN_annotated_drawings_perspective.png" caption="The current PUFFIN design using 2 LTD modules." %}
 
 PUFFIN is currently in the design phase. Two LTD5 modules, along with the charge-and-dump, pre-magnetisation, and switch trigger systems arrived at the PSFC in May 2022. Refurbishment of the lab space in the West Cell of the PSFC (MIT building NW21) is expected to be finished by the end of Summer 2022. 
 
-{% include image_with_caption.html src="/assets/2022_07_20_PUFFIN_annotated_drawings_side-on.png" caption="Side on view of PUFFIN showing the outside of the transmission lines and power junction." %}
+{% include image_with_caption.html src="/assets/2023_03_24_PUFFIN_annotated_drawings_side-on.png" caption="Side on view of PUFFIN showing the outside of the transmission lines and power junction." %}
 
 PUFFIN consists of 2 LTD5 modules (consisting of two 3.9 uF, 100 kV Haefly capacitors) coupled to two coaxial vacuum transmission lines (200 mm OD, 20 mm gap) by multi-channel low-inductance switches immersed in pressurized dry air.
 The transmission lines merge at the power junction and transmit the current upwards into the vacuum chamber.
 
-{% include image_with_caption.html src="/assets/2022_07_20_PUFFIN_annotated_drawings_cutaway.png" caption="Cutaway view of the center of PUFFIN showing the conical power feed and insulator stack. " %}
+{% include image_with_caption.html src="/assets/2023_03_24_PUFFIN_annotated_drawings_cutaway.png" caption="Cutaway view of the center of PUFFIN showing the conical power feed and insulator stack. " %}
 
 The vacuum chamber has 16 sides with configurable vacuum ports to enable a range of diagnostics to be fielded, including interferometry, Thomson scattering and Faraday rotation imaging. There is also a clear line of sight axially through the load.
 
