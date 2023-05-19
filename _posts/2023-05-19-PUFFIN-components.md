@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The first fabricated PUFFIN components have arrived!"
-date:   2023-04-03 10:00:00 -0500
+date:   2023-05-18 10:00:00 -0500
 author: Jack Hare
 thumbnail: /assets/20230519_puffin_parts_1.jpg
 categories: news
