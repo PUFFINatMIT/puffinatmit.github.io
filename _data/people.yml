@@ -3,6 +3,7 @@
   pub_name_long: Jack D. Hare
   pronouns: he/him
   role: PI
+  title: Prof.
   email: jdhare@mit.edu
   website: fusionandthings.eu
   website_url: https://fusionandthings.eu/
@@ -14,6 +15,22 @@
                Jack enjoys hiking, cycling, climbing and caving. His 
                personal webpage is
   profile_img: /assets/profiles/jdhare.jpg
+
+- name: Dr. Antonio Magnanimo
+  pub_name_short: A. Magnanimo
+  pub_name_long: Antonio Magnanimo
+  pronouns: he/him
+  role: Postdoctoral Research Associate
+  title: Dr.
+  email: magna@mit.edu
+  description:  is a postdoctoral research associate in the Plasma Science 
+                and Fusion Center at MIT. During his PhD he built a pulsed 
+                power supply demonstrator for the ASDEX Upgrade experiment 
+                at the Max-Planck-Institute for Plasma Physics. Other than 
+                power electronics for pulsed power applications, Antonio 
+                enjoys playing soccer, swimming and riding one of his 
+                Vespa scooters.
+  profile_img: /assets/profiles/amagnanimo.jpg
 
 - name: Rishabh Datta
   pub_name_short: R. Datta
