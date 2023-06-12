@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Laser Barrier is Complete"
-date:   2023-04-03 10:00:00 -0500
+date:   2023-04-18 10:00:00 -0500
 author: Jack Hare
 thumbnail: /assets/20230403_puffin_wall.jpg
 categories: news
