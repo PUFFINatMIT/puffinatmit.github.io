@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "An update on the status of PUFFIN"
-date:   2023-08-10 8:00:00 -0500
+date:   2023-08-10 1:00:00 -0500
 author: Jack Hare
 thumbnail: /assets/2023-08-10_PUFFIN_parts/2023-08-10_PUFFIN_parts (1).jpg
 categories: news
