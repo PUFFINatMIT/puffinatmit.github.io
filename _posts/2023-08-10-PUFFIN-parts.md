@@ -18,7 +18,7 @@ Lots is happening here at the PSFC on the PUFFIN project - our vacuum chamber ha
 
 {% include image_with_caption.html 
     src="/assets/2023-08-10_PUFFIN_parts/2023-08-10_PUFFIN_parts_3.jpg" 
-    caption="The 3 m diameter, 10 cm thick disk in the foreground is the "spine" of PUFFIN, carrying most of the weight and providing a stable surface for mountain optics."
+    caption="The 3 m diameter, 10 cm thick disk in the foreground is the spine of PUFFIN, carrying most of the weight and providing a stable surface for mountain optics."
 %}
 
 
