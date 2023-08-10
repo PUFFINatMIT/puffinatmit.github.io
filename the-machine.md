@@ -12,7 +12,7 @@ PUFFIN's unique capability is its microsecond pulse length, in contrast to fast 
 
 {% include image_with_caption.html src="/assets/2023_03_24_PUFFIN_annotated_drawings_perspective.png" caption="The current PUFFIN design using 2 LTD modules." %}
 
-PUFFIN is currently in the design phase. Two LTD5 modules, along with the charge-and-dump, pre-magnetisation, and switch trigger systems arrived at the PSFC in May 2022. Refurbishment of the lab space in the West Cell of the PSFC (MIT building NW21) finished in Fall 2022. Further updates can be found on our ["News page"](https://puffin.mit.edu/news/).
+PUFFIN is currently in the design phase. Two LTD5 modules, along with the charge-and-dump, pre-magnetisation, and switch trigger systems arrived at the PSFC in May 2022. Refurbishment of the lab space in the West Cell of the PSFC (MIT building NW21) finished in Fall 2022. Further updates can be found on our [News page](https://puffin.mit.edu/news/).
 
 {% include image_with_caption.html src="/assets/2023_03_24_PUFFIN_annotated_drawings_side-on.png" caption="Side on view of PUFFIN showing the outside of the transmission lines and power junction." %}
 
