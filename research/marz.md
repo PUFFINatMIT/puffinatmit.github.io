@@ -6,7 +6,7 @@ subpage_of: Research
 enable_maths: true
 ---
 
-# MARZ: Magnetically Reconnection on Z
+# MARZ: MAgnetic Reconnection on Z
 
 {% include image_with_caption.html 
     src="/assets/z3697_load_hardware.jpg" 
@@ -25,7 +25,7 @@ We were awarded four shots through the Z Fundamental Science Program (ZFSP) in 2
     caption="A summary of data from our first MARZ shot on Z. From top left: load hardware in chamber, spectrograph of PDV demonstrating current delivery to the load, a bow shock forming around an inductive probe, streaked visible spectra from the plasma flows, X-ray spectroscopy of the reconnection layer showing Al K-shell, a photo of the inductive probe used to form the bow shock. Courtesy of Sandia National Laboratories."
 %}
 
-Further shots in December 2022 built on this result and showed evidence for bright hotspots moving within the reconnection layer, consistent with the plasmoids seen in our 3D MHD simulations. Further shots will look at scaling the wire arrays and current pulse to reach different regimes of radiative cooling.
+Our second and third shots in December 2022 built on this result and showed evidence for bright hotspots moving within the reconnection layer, consistent with the plasmoids seen in our 3D MHD simulations. Our fourth shot, scheduled for early 2024, will add new diagnostics such as laser imaging to further chracterize the reconnection layer.
 
 We are grateful to Sandia National Laboratories for providing us with facility time on Z, and to the NSF for funding graduate student Rishabh Datta through NSF EAGER PHY2213898.
 
