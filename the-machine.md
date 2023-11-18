@@ -25,13 +25,6 @@ The vacuum chamber has 16 sides with configurable vacuum ports to enable a range
 
 In a future design we intend to use uses eight LTD5 modules (or stages) arranged in four lines of two modules each. The modules stacked in series increase the overall voltage of the pulse, and the modules stacked in parallel increase the total current.
 
-  {% include link_to_poster.html
-            poster="/assets/posters/APSDPP2020_PUFFIN_Poster_lowres.pdf"
-            thumbnail="/assets/posters/APSDPP2020_PUFFIN_Poster_lowres_thumbnail.png"
-        %}
-
-You can find out more about PUFFIN <a href="/assets/posters/APSDPP2020_PUFFIN_Poster_lowres.pdf">in this poster</a> we presented at APS DPP 2020, though as noted the design has now evolved to the two stage version presented above.
-
 
 ### Recommended reading
 - ["A Primer on Pulsed Power and Linear Transformer Drivers for High Energy Density Physics Applications"](https://spiral.imperial.ac.uk/handle/10044/1/64848) by McBride et al. A very thorough review of LTDs and pulsed-power in general.
