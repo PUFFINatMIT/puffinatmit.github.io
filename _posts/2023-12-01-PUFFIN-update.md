@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "PUFFIN transmission lines welded"
+title:  "PUFFIN assembly has begun!"
 date:   2023-12-01 6:00:00 -0500
 author: Jack Hare
 thumbnail: /assets/2023-12-01_PUFFIN_update/2023-12-01_PUFFIN_update4.jpg
