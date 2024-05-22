@@ -10,11 +10,11 @@ PUFFIN is a university scale pulsed-power facility, which provides hands-on trai
 
 ## Undergraduate students
 
-We welcome undergraduate students at MIT through the UROP scheme. We intend to 
+We are currently not taking undergraduate researchers during the PUFFIN group's move to Cornell.
 
 ## Graduate students
 
-Note that Jack Hare is joining the School of Electrical and Computer Engineering at Cornell in January 2025, so will not be taking students at MIT in the next application cycle, or indeed any after that. The FAQ below has been updarted to reflect this.
+Note that Prof. Jack Hare is joining the School of Electrical and Computer Engineering at Cornell in January 2025, so will not be taking students at MIT in the next application cycle, or indeed any after that. The FAQ below has been partially updated to reflect this.
 
 ### Graduate application FAQ:
 - __Are you taking students this year?__ In general I take students every year. Due to how funding cycles work, I am never completely certain how many students I can fund, so I am always looking for good applicants.
