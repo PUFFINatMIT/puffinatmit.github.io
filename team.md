@@ -31,7 +31,7 @@ We actively recruit UROP students to run research projects within the group. If 
     {% for person in site.data.urops.students %}
         <div class="urop-names-student">
             <b>{{ person.name }}</b> {% if person.affiliation %} ({{ person.affiliation }}) {% endif %} <br>
-            {{ person.start }}{% if person.end %}&mdash;{{ person.end }}{% endif %}
+            Started {{ person.start }}
         </div>
     {% endfor %}
 </div>
