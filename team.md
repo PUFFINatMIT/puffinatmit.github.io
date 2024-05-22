@@ -38,8 +38,15 @@ We actively recruit UROP students to run research projects within the group. If 
 
 ## Alumni
 
-*Dr. Antonio Magnanimo, now at the European Patent Office
-*Lily Li, now working with Prof. Anne White
+* Dr. Antonio Magnanimo, now at the European Patent Office
+* Lily Li, now working with Prof. Anne White
+* Jane Atkinson (UROP 2023)
+* Osahon Odiase (UROP 2023)
+* Dylan Robinson (UROP 2022-23)
+* Jose Cerritos Arevalo (UROP 2022)
+* Jason Smith (UROP 2022)
+* Hanfei Cui (UROP 2022)
+* Emily Wong (UROP 2021-22)
 
 ## Collaborations
 
