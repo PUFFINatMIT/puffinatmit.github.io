@@ -8,7 +8,7 @@ categories: news
 use_math: false
 ---
 
-In January 2025, the PUFFIN group is moving from the Plasma Science and Fusion Center at MIT to the [Laboratory for Plasma Studies](https://www.lps.cornell.edu/) at Cornell. Jack is joining the faculty at the School of ELectrical and Computer Engineering, and PUFFIN will be moving in just down the corridor from the existing COBRA facility at Cornell.
+In January 2025, the PUFFIN group is moving from the Plasma Science and Fusion Center at MIT to the [Laboratory for Plasma Studies](https://www.lps.cornell.edu/) at Cornell. Jack is joining the faculty at the School of Electrical and Computer Engineering, and PUFFIN will be moving in just down the corridor from the existing COBRA facility at Cornell.
 
 We're very grateful to all of our colleagues at MIT PSFC for their support and hard work on PUFFIN over the last four years. We plan to finish construction and commissioning of PUFFIN this summer, and carry out initial experiments at MIT before moving the facility to Cornell in 2025.
 
