@@ -36,6 +36,11 @@ We actively recruit UROP students to run research projects within the group. If 
     {% endfor %}
 </div>
 
+## Alumni
+
+*Dr. Antonio Magnanimo, now at the European Patent Office
+*Lily Li, now working with Prof. Anne White
+
 ## Collaborations
 
 Prof. Hare is co-PI of the MARZ collaboration (Magnetically Ablated Reconnection on Z), a Z Fundamental Science collaboration to run magnetic reconnection experiments on the Z machine at Sandia national labs. Z is the most powerful pulsed-power facility in the world, capable of delivering 25 MA current pulses. With MARZ, we will study strong radiative cooling in magnetic reconnection and the development of magnetized shocks. The MARZ collaboration includes Clayton Myers (SNL), Sergey Lebedev and Jerry Chittenden (Imperial College London), Dmitri Uzdensky (University of Colorado Boulder), Carolyn Kuranz (University of Michigan Ann Arbor), and Will Fox and Hantao Ji (PPPL).
