@@ -1,6 +1,21 @@
-- name: Emily Wong
-  start: Fall 2021
-  end: Spring 2022
+- name: Sam Engebretson
+  start: Summer 2024
+  end: Ongoing
+  affiliation: MIT
+
+- name: Emily Neill
+  start: IAP 2023
+  end: Spring 2024
+  affiliation: MIT
+
+- name: Jane Atkinson
+  start: IAP 2023
+  end: Spring 2023
+  affiliation: MIT
+
+- name: Osahon Odiase
+  start: IAP 2023
+  end: Summer 2023
   affiliation: MIT
 
 - name: Dylan Robinson
@@ -20,18 +35,11 @@
 - name: Hanfei Cui
   start: Summer 2022
   affiliation: MIT
-
-- name: Emily Neill
-  start: IAP 2023
-  end: Spring 2023
+  
+  - name: Emily Wong
+  start: Fall 2021
+  end: Spring 2022
   affiliation: MIT
 
-- name: Jane Atkinson
-  start: IAP 2023
-  end: Spring 2023
-  affiliation: MIT
 
-- name: Osahon Odiase
-  start: IAP 2023
-  end: Summer 2023
-  affiliation: MIT
+

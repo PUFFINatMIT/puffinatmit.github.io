@@ -16,22 +16,6 @@
                personal webpage is
   profile_img: /assets/profiles/jdhare.jpg
 
-- name: Dr. Antonio Magnanimo
-  pub_name_short: A. Magnanimo
-  pub_name_long: Antonio Magnanimo
-  pronouns: he/him
-  role: Postdoctoral Research Associate
-  title: Dr.
-  email: magna@mit.edu
-  description:  is a postdoctoral research associate in the Plasma Science 
-                and Fusion Center at MIT. During his PhD he built a pulsed 
-                power supply demonstrator for the ASDEX Upgrade experiment 
-                at the Max-Planck-Institute for Plasma Physics. Other than 
-                power electronics for pulsed power applications, Antonio 
-                enjoys playing soccer, swimming and riding one of his 
-                Vespa scooters.
-  profile_img: /assets/profiles/amagnanimo.jpg
-
 - name: Rishabh Datta
   pub_name_short: R. Datta
   pub_name_long: Rishabh Datta
@@ -85,18 +69,6 @@
                 board/card games, TV shows of all kinds, biking, NFL football, reading, 
                 and (most importantly) watching The Matrix movies as often as possible."
   profile_img: /assets/profiles/lhoran.jpg
-
-- name: Yuqian (Lily) Li
-  pub_name_short: Y. Li
-  pub_name_long: Yuqian Li 
-  pronouns: she/her
-  role: Graduate Student
-  email: lilyli23@mit.edu
-  description: "is a graduate student in the Department of Nuclear Science and Engineering 
-                at MIT. She is interested in fundamental plasma physics in laboratory 
-                settings and other cool things happening in space. Outside work, Lily enjoys 
-                watching shows and reading. She also has a strong passion for food and photography."
-  profile_img: /assets/profiles/lilyli.jpg
 
 - name: Zhiyuan Jiang
   pub_name_short: Z. Jiang
