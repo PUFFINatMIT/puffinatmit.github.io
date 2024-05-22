@@ -38,8 +38,8 @@ We actively recruit UROP students to run research projects within the group. If 
 
 ## Alumni
 
-*Dr. Antonio Magnanimo, now at the European Patent Office
-*Lily Li, now working with Prof. Anne White
+* Dr. Antonio Magnanimo, now at the European Patent Office
+* Lily Li, now working with Prof. Anne White
 
 ## Collaborations
 
